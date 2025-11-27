@@ -37,6 +37,16 @@ python run_api.py              # REST API
 - Fast inference (QLoRA optimization)
 - Efficient 4-bit quantization
 
+## 🖼️ UI Preview
+
+<div align="center">
+
+![Medical Chatbot UI](image.png)
+
+*Medical Chatbot Streamlit Interface - Settings panel with model information, conversation interface, and configurable generation parameters*
+
+</div>
+
 ## 📊 Model Specifications
 
 | Property | Value |
